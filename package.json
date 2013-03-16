@@ -1,6 +1,7 @@
 {
   "name": "node-document-differ",
   "description": "Differ adapter interface for `node-document` ODM for Node.js.",
+  "keywords": ["document", "odm", "object document mapper", "generic", "unified", "differ", "diffing", "adapter", "interface"],
   "version": "0.1.0-pre2",
   "homepage": "https://github.com/grimen/node-document-differ",
   "repository": {
@@ -16,6 +17,7 @@
       "url": "https://github.com/grimen/node-document-differ/blob/MIT-LICENSE"
     }
   ],
+  "author": "Jonas Grimfelt <grimen@gmail.com>",
   "maintainers": [
     {
       "name": "Jonas Grimfelt",
